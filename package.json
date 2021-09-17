@@ -1,0 +1,23 @@
+{
+  "name": "magic-music-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSH132010/Magic-Music-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSH132010/Magic-Music-3/issues"
+  },
+  "homepage": "https://github.com/DSH132010/Magic-Music-3#readme",
+  "devDependencies": {
+    "sass": "^1.41.0"
+  }
+}
